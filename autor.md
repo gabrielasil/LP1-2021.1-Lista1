@@ -2,9 +2,9 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\__Gabriela Melo Silva__*
-- Email: *\gabrielamsilva02@gmail.com>*
-- Turma: *\IMD0030-T02*
+- Nome: *Gabriela Melo Silva*
+- Email: *gabrielamsilva02@gmail.com*
+- Turma: *IMD0030-T02*
 
 # Questões Finalizadas
 
