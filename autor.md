@@ -8,8 +8,8 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 
 # Questões Finalizadas
 
-- [ ] Negativos 5
-- [ ] Soma Vizinhos
+- [X] Negativos 5
+- [X] Soma Vizinhos
 - [ ] Intervalos
 - [ ] Fibonacci
 - [ ] Minmax

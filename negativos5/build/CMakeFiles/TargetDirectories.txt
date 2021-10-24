@@ -1,0 +1,4 @@
+/home/gmsilva/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/rebuild_cache.dir
+/home/gmsilva/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/edit_cache.dir
+/home/gmsilva/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/verify.dir
+/home/gmsilva/LP1-2021.1-Lista1/negativos5/build/CMakeFiles/program.dir

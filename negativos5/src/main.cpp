@@ -6,7 +6,14 @@ const int SIZE = 5; // input size.
 
 int main(void)
 {
-    // TODO: Adicione aqui seu código.
-
+	int vector[SIZE];
+	int counter = 0;
+	for (int i = 0; i<SIZE; i++) {
+		cin >> vector[i];
+		if (vector[i]<0) {
+		counter++;
+		}
+	}
+	cout<<counter;
     return 0;
 }
