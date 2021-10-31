@@ -1,0 +1,5 @@
+/home/gmsilva/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/rebuild_cache.dir
+/home/gmsilva/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/edit_cache.dir
+/home/gmsilva/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/run_tests.dir
+/home/gmsilva/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/all_tests.dir
+/home/gmsilva/LP1-2021.1-Lista1/ponto_em_retangulo_1/build/CMakeFiles/func.dir
